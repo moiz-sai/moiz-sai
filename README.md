@@ -123,9 +123,9 @@ Now I'm going deeper. The goal is to become a full AI engineer — not just some
 
 <div align="center">
 
-![Moiz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=moiz-sai&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+![Moiz's GitHub Stats](https://project-vjuxf.vercel.app/api?username=moiz-sai&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moiz-sai&layout=compact&theme=github_dark&hide_border=true)
+![Top Languages](https://project-vjuxf.vercel.app/api/top-langs/?username=moiz-sai&layout=compact&theme=github_dark&hide_border=true)
 
 </div>
 
